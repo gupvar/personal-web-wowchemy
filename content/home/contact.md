@@ -25,19 +25,16 @@ content:
       captcha: true
 
   # Contact details (edit or remove options as required)
-  email: vxg15 [@] psu [DOT]edu
+  email: varun [dot] gupta [@] ung [DOT]edu
   phone: (814)-898-six-two-six-six
   address:
-    street: Burke 261, 5160 Jordan Road
-    city: Erie
-    region: PA
-    postcode: '16509'
+    street: 82 College Circle
+    city: Dahlonega
+    region: GA
+    postcode: '30597'
     country: United States
     country_code: US
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: Enter Cottrell College of Business Building and take the stairs to Office 290 on Floor 2
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
