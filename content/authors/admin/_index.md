@@ -1,7 +1,7 @@
 ---
 title: Varun Gupta
-role: Associate Professor of SCM and Analytics
-avatar_filename: varun.jpg
+role: Associate Professor of Logistics and Business Analytics
+avatar_filename: gupta-varun.jpeg
 bio: My research interests include supply chain management, inventory
   management, empirical operations management.
 interests:
