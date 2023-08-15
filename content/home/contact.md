@@ -25,7 +25,7 @@ content:
       captcha: true
 
   # Contact details (edit or remove options as required)
-  email: [E-mail]</dr.varun.gupta@outlook.com>
+  email: dr.varun.gupta@outlook.com
   address:
     city: Atlanta
     region: Georgia
