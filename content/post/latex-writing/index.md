@@ -12,6 +12,7 @@ tags:
   - Academic
   - Writing
   - LaTeX
+  - Research
 categories:
   - Research
 projects: []
@@ -25,7 +26,7 @@ image:
 
 # What is LaTeX?
 
-Most of my professional writing – including papers, class presentation slides, assignments are made in LaTeX (pronounced «Lah-tech» or «Lay-tech» ). LaTeX is a markup (programming) language that is different from typesetting tools such as MS-Word or MS-PowerPoint where you see immediately what you write and also take care of formatting at the same time. The utmost power of https://miktex.org/LaTeX comes with the precision and its ability to control the formatting for documents including alignment, sectioning, auto-referencing, and for me its ability to easily render (near-)perfect mathematical writing.
+Most of my professional writing – including papers, class presentation slides, and assignments are prepared using LaTeX (pronounced «Lah-tech» or «Lay-tech» ). LaTeX is a markup (programming) language that is different from typesetting tools such as MS-Word or MS-PowerPoint where you see immediately what you write and also take care of formatting at the same time. The utmost power of https://miktex.org/LaTeX comes with the precision and its ability to control the formatting for documents including alignment, sectioning, auto-referencing, and for me its ability to easily render (near-)perfect mathematical writing.
 
 ## Getting started with LaTeX
 
