@@ -1,4 +1,4 @@
-name = "Academic"
+name = "Varun's Website"
 license = "MIT"
 licenselink = "https://github.com/wowchemy/starter-hugo-academic/blob/master/LICENSE.md"
 description = "Use the website builder to easily build your site with 50+ widgets and deploy with one click! Fully customize your site with themes, plugins, and language packs."
@@ -45,6 +45,6 @@ features = ["page builder", "widgets", "themes", "search", "research publication
 
 # If porting an existing theme
 [original]
-  name = ""
-  homepage = ""
+  name = "Varun Gupta"
+  homepage = "https://varungupta.us"
   repo = ""
