@@ -23,14 +23,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Associate Professor of SCM and Analytics
+  - title: Associate Professor of Logistics and Analytics
     company: Cottrell College of Business, University of North Georgia
     company_url: 'https://ung.edu/mike-cottrell-college-of-business/index.php'
     company_logo: ung
     location: Georgia
     date_start: '2022-08-01'
     date_end: ''
-    description: Taught several supply chain management and logistics courses at undergraduate levels.
+    description: Led the *Syfan Logistics Lab*, established partnerships with the logistics and supply chain (L-SCM) industry, and taught logistics and supply chain courses. Established and led the student L-SCM club.
         
   - title: Associate Professor of SCM and Analytics
     company: Penn State Behrend
@@ -39,7 +39,7 @@ experience:
     location: Pennsylvania
     date_start: '2020-05-01'
     date_end: ''
-    description: Taught several supply chain management and analytics courses at graduate and undergraduate levels.
+    description: Received awards for research and industry impact. Led the student supply chain club. Taught several supply chain management and analytics courses at the MBA and undergraduate levels.
    
   - title: Assistant Professor of OM and SCM
     company: Penn State Behrend
