@@ -4,7 +4,7 @@ subtitle: How Logistics Played an Important Role in India's struggle for indepen
 date: 2023-08-15T18:46:59.094Z
 summary: ""
 draft: false
-featured: false
+featured: true
 authors:
   - admin
 lastmod: 2020-12-13T00:00:00.000Z
