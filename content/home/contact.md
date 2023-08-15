@@ -25,29 +25,18 @@ content:
       captcha: true
 
   # Contact details (edit or remove options as required)
-  email: varun [dot] gupta [@] ung [DOT]edu
-  phone: (814)-898-six-two-six-six
+  email: dr [dot] varun [dot] gupta [@] outlook [DOT] com
   address:
-    street: 82 College Circle
-    city: Dahlonega
-    region: GA
-    postcode: '30597'
+    city: Atlanta Metro
+    region: Georgia
     country: United States
     country_code: US
-  directions: Enter Cottrell College of Business Building and take the stairs to Office 290 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+  appointment_url: 'https://calendly.com/varunguptaus'
   contact_links:
-    - icon: twitter
+    - icon: linkedin
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      name: Connect With Me
+      link: 'https://www.linkedin.com/in/drvarungupta/'
 
 design:
   columns: '2'
