@@ -2,7 +2,7 @@
 title: Logistics and India's March to Freedom
 date: 2023-08-14T18:39:46.899Z
 draft: false
-featured: false
+featured: true
 image:
   filename: india-flag-2021-wallpaper-6-12082021.png
   focal_point: Smart
