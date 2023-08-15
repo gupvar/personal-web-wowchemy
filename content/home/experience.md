@@ -26,7 +26,7 @@ experience:
   - title: Associate Professor of Logistics and Analytics
     company: Cottrell College of Business, University of North Georgia
     company_url: 'https://ung.edu/mike-cottrell-college-of-business/index.php'
-    company_logo: ung
+    company_logo: ung1.png
     location: Georgia
     date_start: '2022-08-01'
     date_end: ''
