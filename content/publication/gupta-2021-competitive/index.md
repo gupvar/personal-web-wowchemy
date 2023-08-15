@@ -1,37 +1,25 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Competitive pricing of substitute products under supply disruption
-subtitle: ''
-summary: ''
+subtitle: ""
+publication_types:
+  - "2"
 authors:
-- Varun Gupta
-- Dmitry Ivanov
-- Tsan-Ming Choi
+  - Varun Gupta
+  - Dmitry Ivanov
+  - Tsan-Ming Choi
+publication: "*Omega*"
+abstract: ""
+draft: false
+featured: true
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2022-02-21T11:46:51-05:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-21T16:46:50.334058Z'
-publication_types:
-- '2'
-abstract: ''
-publication: '*Omega*'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+summary: ""
+lastmod: 2022-02-21T11:46:51-05:00
+date: 2021-01-01
+publishDate: 2022-02-21T16:46:50.334058Z
 ---
