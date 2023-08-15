@@ -39,7 +39,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {2023} Varun Gupta.'
+    notice: '© 2023 Varun Gupta.'
     license:
       enable: true
       allow_derivatives: false
