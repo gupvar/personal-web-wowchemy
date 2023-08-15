@@ -1,37 +1,29 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Contingent sourcing under supply disruption and competition
-subtitle: ''
-summary: ''
-authors:
-- Varun Gupta
-- Bo He
-- Suresh P Sethi
-tags: [disruption, game theory, supply chain, dual-sourcing]
-categories: []
-date: '2015-01-01'
-lastmod: 2022-02-21T11:46:39-05:00
-featured: true
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-02-21T16:46:38.440297Z'
+subtitle: ""
 publication_types:
-- '2'
-abstract: ''
-publication: '*International Journal of Production Research*'
+  - "2"
+authors:
+  - Varun Gupta
+  - Bo He
+  - Suresh P Sethi
+publication: "*International Journal of Production Research*"
+abstract: ""
+draft: false
+featured: false
+tags:
+  - disruption
+  - game theory
+  - supply chain
+  - dual-sourcing
+categories: []
+projects: []
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+summary: ""
+lastmod: 2022-02-21T11:46:39-05:00
+date: 2015-01-01
+publishDate: 2022-02-21T16:46:38.440297Z
 ---
