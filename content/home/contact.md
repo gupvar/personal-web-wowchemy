@@ -9,7 +9,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle: Write a Brief Message
+subtitle: Email, appointment, and connecting.
 
 content:
   # Automatically link email and phone or display as text?
