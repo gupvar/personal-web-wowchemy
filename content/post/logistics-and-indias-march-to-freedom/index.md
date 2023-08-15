@@ -1,6 +1,6 @@
 ---
 title: Logistics and India's March to Freedom
-date: 2023-08-15T18:36:43.007Z
+date: 2023-08-14T18:39:46.899Z
 draft: false
 featured: false
 image:
