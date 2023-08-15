@@ -32,6 +32,6 @@ As we reflect on India's journey to independence, let's dive into an often overl
 
 🌍 The logistics prowess displayed during these movements demonstrated that an organized approach, strategic thinking, and effective resource management can indeed reshape the course of history. 📈
 
-So, let's celebrate not just the courage of our freedom fighters, but also the logistical brilliance that threaded the tapestry of India's independence movement. As we excel in the modern business landscape, may we draw inspiration from their legacy and apply their principles to create a brighter future for the future generations. 🌅
+So, let's celebrate not just the courage of our freedom fighters, but also the logistical brilliance that threaded the tapestry of India's independence movement. As we excel in the modern business landscape, may we draw inspiration from their legacy and apply their principles to create a brighter future for future generations. 🌅
 
 <!--EndFragment-->
