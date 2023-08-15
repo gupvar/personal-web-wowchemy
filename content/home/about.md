@@ -1,6 +1,6 @@
 ---
 widget: about
-widget_id: about-me
+widget_id: About Me
 headless: true
 weight: 20
 title: About Me
