@@ -1,7 +1,7 @@
 ---
 title: Varun Gupta
 role: Associate Professor of Logistics and Business Analytics
-avatar_filename: headshot.jpg
+avatar_filename: avatar.jpg
 bio: With more than a decade of experience in industry consulting and academia,
   Varun is a distinguished supply chain management authority. Renowned for
   expertise in pricing strategies and supply chain optimization, he has helped
