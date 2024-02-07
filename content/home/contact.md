@@ -35,7 +35,7 @@ content:
   contact_links:
     - icon: linkedin
       icon_pack: fab
-      name: Connect With Me
+      name: Connect With Me on LinkedIn
       link: 'https://www.linkedin.com/in/drvarungupta/'
 
 design:
