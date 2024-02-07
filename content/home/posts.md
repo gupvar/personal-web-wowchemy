@@ -7,7 +7,7 @@ widget: pages
 headless: false
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
 title: Recent Posts
 subtitle: Varun is an observer of the latest in logistics and supply chains. Supply chain and pricing modeling enthusiast.
