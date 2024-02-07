@@ -3,9 +3,7 @@ title: Nearshoring Trends 🚀 - Part 2
 date: 2024-01-31T14:39:00.000Z
 draft: false
 featured: true
-tags:
-  - "#nearshoring #supplychain #logistics #latam #manufacturing #sustainability
-    #futureofwork #trade"
+tags: []
 image:
   filename: ""
   focal_point: Smart
