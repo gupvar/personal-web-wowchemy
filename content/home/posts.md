@@ -9,8 +9,8 @@ headless: false
 # Order that this section appears on the page.
 weight: 30
 
-title: Recent Blog Posts
-subtitle: Varun enjoys writing about logistics, supply chains, and research.
+title: Recent Posts
+subtitle: Varun is an observer of the latest in logistics and supply chains. Supply chain modeling and pricing enthusiast.
 
 content:
   # Filter on criteria
@@ -25,7 +25,7 @@ content:
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
-  count: 0
+  count: 3
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
