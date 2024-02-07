@@ -38,7 +38,7 @@ experience:
     company_logo: penn-state
     location: Pennsylvania
     date_start: '2020-05-01'
-    date_end: ''
+    date_end: '2022-06-30'
     description: Received awards for research and industry impact. Led the student supply chain club. Taught several supply chain management and analytics courses at the MBA and undergraduate levels.
    
   - title: Assistant Professor of OM and SCM
