@@ -39,11 +39,11 @@ header:
 
 footer:
   copyright:
-    notice: '© 2023 Varun Gupta.'
+    notice: '© Varun Gupta.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
