@@ -15,10 +15,10 @@ main:
     weight: 30
   - name: Industry Projects
     url: '#projects'
-    weight: 40
+    weight: 50
   - name: Research
     url: '#publications'
-    weight: 50
+    weight: 40
   - name: Contact
     url: '#contact'
     weight: 60
