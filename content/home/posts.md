@@ -10,7 +10,7 @@ headless: false
 weight: 30
 
 title: Recent Posts
-subtitle: Varun is an observer of the latest in logistics and supply chains. Supply chain modeling and pricing enthusiast.
+subtitle: Varun is an observer of the latest in logistics and supply chains. Supply chain and pricing modeling enthusiast.
 
 content:
   # Filter on criteria
