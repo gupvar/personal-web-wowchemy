@@ -37,13 +37,39 @@ Let's explore a data-driven approach that incorporates a nuanced understanding o
 * **Weighted Regression Models:** Assign greater importance to recent "normal" demand cycles for more relevant predictions. Sample Python code below:
 
 ```
+import pandas as pd
+from sklearn.linear_model import LinearRegression
 
+# Fictitious 'Trendy Kicks' Sneaker Data (monthly)
+df = pd.DataFrame({
+   'date': pd.date_range('2021-01-01', periods=36, freq='M'),
+   'sales': [120, 115, 130, 125, ..., 750, 820, 840] 
+})
+
+# Weight recent 12 months more heavily 
+weights = np.concatenate([np.ones(12), np.linspace(0.8, 1, 24)]) 
+
+model = LinearRegression()
+model.fit(df[['date']], df['sales'], sample_weight=weights)
+
+# Forecast for the next few months...
 ```
 
 * **ARIMA (Autoregressive Integrated Moving Average)** Analyze time series data, capturing trends, seasonality, and autocorrelation for nuanced forecasts. Sample Python code below:
 
 ```
+from statsmodels.tsa.arima.model import ARIMA
 
+# Prepare data, ensuring time series format
+df['date'] = pd.to_datetime(df['date'])
+df.set_index('date', inplace=True)
+
+model = ARIMA(df['sales'], order=(2, 1, 1))  # Example order
+model_fit = model.fit()
+
+# Forecast and calculate accuracy
+forecast = model_fit.forecast(steps=6) 
+print(forecast)
 ```
 
 **Incorporating External Signals** Move beyond internal sales figures. Integrate factors like:
@@ -57,7 +83,15 @@ Let's explore a data-driven approach that incorporates a nuanced understanding o
 **Rigorous Evaluation** Quantify forecast accuracy using measures like Mean Absolute Error (MAE) and Mean Squared Error (MSE). This facilitates the comparison of model alternatives.
 
 ```
+from sklearn.metrics import mean_absolute_error, mean_squared_error
 
+#  Assume 'y_true' (actual sales) and 'y_pred' (predictions) exist
+
+mae = mean_absolute_error(y_true, y_pred)
+mse = mean_squared_error(y_true, y_pred)
+
+print("Mean Absolute Error (MAE):", mae)
+print("Mean Squared Error (MSE):", mse)
 ```
 
 ### Key Takeaways for Forecasters
