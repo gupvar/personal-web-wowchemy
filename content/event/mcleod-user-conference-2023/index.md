@@ -3,7 +3,7 @@ abstract: Regional Workforce Development via University Partnerships
 slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
-title: McLeod User Conference 2023
+title: RDIAS research seminar
 location: Phoenix, Arizona
 date: 2024-02-16T03:05:52.299Z
 date_end: 2023-09-19T01:46:26.307Z
