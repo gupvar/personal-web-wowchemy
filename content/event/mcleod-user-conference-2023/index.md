@@ -29,4 +29,4 @@ image:
   focal_point: Right
 url_code: ""
 ---
-{﻿{< youtube 0ltKx0LF3tI >}}
+{{< youtube qtIqKaDlqXo >}}
