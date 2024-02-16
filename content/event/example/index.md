@@ -9,7 +9,7 @@ date: 2023-09-19T01:46:00.000Z
 date_end: 2023-09-19T01:46:26.307Z
 all_day: true
 event: McLeod User Conference
-event_url: www.mcleod.com
+event_url: https://www.mcleodsoftware.com/
 featured: false
 authors: []
 url_video: ""
