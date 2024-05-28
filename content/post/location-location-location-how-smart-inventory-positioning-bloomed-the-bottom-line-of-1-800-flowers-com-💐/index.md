@@ -23,15 +23,7 @@ Simply put, it's the art and science of distributing your inventory across your 
 
 ## Case Study: How 1-800-Flowers.com Bloomed with Smart Inventory Positioning
 
-Minimize image
-
-Edit image
-
-Delete image
-
-![](https://media.licdn.com/dms/image/D4E12AQGH9M2O8yNrHg/article-inline_image-shrink_1000_1488/0/1716605270028?e=1722470400&v=beta&t=143esgelRReT06z2i_g1r6ofafIqaA_Aeq5zLObaGrI)
-
-Image Courtesy: Threatpost
+![](https://media.licdn.com/dms/image/D4E12AQGH9M2O8yNrHg/article-inline_image-shrink_1000_1488/0/1716605270028?e=1722470400&v=beta&t=143esgelRReT06z2i_g1r6ofafIqaA_Aeq5zLObaGrI "Image Courtesy: Threatpost")
 
 Faced with rising shipping costs, [1-800-FLOWERS.COM, INC.](https://www.linkedin.com/article/edit/7199961368546996224/#) strategically relocated inventory closer to its customer base. This allowed them to leverage lower-cost shipping options (like USPS or regional carriers) without sacrificing delivery speeds. The result? A 13% YoY decrease in the cost of revenue, outpacing their revenue decline! Full Article here at [Supply Chain Dive](https://www.linkedin.com/article/edit/7199961368546996224/#) <https://www.supplychaindive.com/news/1-800-flowers-delivery-prices-logistics-optimization/716623/>
 
