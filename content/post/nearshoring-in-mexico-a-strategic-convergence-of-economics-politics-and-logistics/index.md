@@ -1,7 +1,7 @@
 ---
 title: "Nearshoring in Mexico: A Strategic Convergence of Economics, Politics,
   and Logistics"
-date: 2024-05-21T12:00:00.000Z
+date: 2024-05-20T12:00:00.000Z
 draft: false
 featured: false
 image:
