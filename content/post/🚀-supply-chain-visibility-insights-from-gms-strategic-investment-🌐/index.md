@@ -4,7 +4,7 @@ date: 2024-07-08T12:00:16.386Z
 draft: false
 featured: false
 image:
-  filename: 1720236503732.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
