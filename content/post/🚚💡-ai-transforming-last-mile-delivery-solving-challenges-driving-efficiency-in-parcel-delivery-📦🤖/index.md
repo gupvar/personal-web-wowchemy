@@ -1,7 +1,7 @@
 ---
 title: "🚚💡 AI Transforming Last-Mile Delivery: Solving Challenges & Driving
   Efficiency in Parcel Delivery 📦🤖"
-date: 2024-12-03T03:35:36.784Z
+date: 2024-10-01T02:35:36.784Z
 draft: false
 featured: false
 image:
